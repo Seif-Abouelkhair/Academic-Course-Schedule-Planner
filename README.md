@@ -28,9 +28,16 @@ Administrators can manage courses, section offerings, capacities, prerequisites,
 - `tests/` – Test cases and testing documentation.
 - `deployment/` – Deployment instructions and configuration files.
 
+
 ## Project Documentation
 
-Project documents will be added to the `docs/` folder as the project progresses.
+- [Software Requirements Specification (SRS)](docs/SRS.pdf)
+- [Software Design Document (SDD)](docs/SDD.pdf)
+
+The SDD includes the monolithic MVC architecture,
+UML class and sequence diagrams, UI wireframes,
+and MySQL database design.
+
 
 ## Setup and Execution
 
